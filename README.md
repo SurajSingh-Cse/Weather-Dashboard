@@ -86,5 +86,7 @@ SWITCH(
 ## 📬 Contact
 Created by Suraj Singh — feel free to connect via LinkedIn or explore more on GitHub
 
+www.linkedin.com/in/singh-suraj-negi
+
 ## 🏷️ Tags
 #PowerBI #DataVisualization #WeatherDashboard #AQI #DAX #SurajSingh #PortfolioProject
